@@ -1,0 +1,5 @@
+.DS_Store
+.vscode
+textbook/node_modules/
+textbook/public/
+textbook/.cache
